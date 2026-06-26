@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/13784406441381709227" width="100%" alt="Bannière Godlove" />
+  <img src="https://i.ibb.co/3s8bT8Y/godlove-banner-simple.png" width="100%" alt="Bannière Godlove" />
 </p>
 
 # Salut, moi c'est Godlove ! 👋
