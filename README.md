@@ -41,3 +41,12 @@ Actuellement élève en **Première**, je suis un développeur passionné et ent
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Godlovedev&color=violet&style=flat-square&label=VUES+DU+PROFIL" alt="Compteur de vues" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godlovedev&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Godlovedev&color=violet&style=flat-square&label=VUES+DU+PROFIL" alt="Compteur de vues" />
+</p>
